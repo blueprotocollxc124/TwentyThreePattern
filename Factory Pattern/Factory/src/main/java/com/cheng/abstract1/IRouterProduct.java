@@ -1,0 +1,16 @@
+package com.cheng.abstract1;
+
+/*
+ *
+ *@Author  liu
+ *@Creat Time   2021/7/23  9:47
+ *@System Data  2021 07
+ *
+ */
+
+
+public interface IRouterProduct {
+ public void open();
+ public void setting();
+ public void link();
+}
